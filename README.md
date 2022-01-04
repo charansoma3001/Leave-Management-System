@@ -1,11 +1,11 @@
 # Leave-Management-System
 
 <h3> In command prompt, install these necessary modules </h3>
-<h4> Pillow </h4>
+<h4> Pillow
   - pip install pillow
 
-<h4> Openpyxl <h4>
-  - pip install openpyxl
+<h4> Openpyxl
+  - pip install openpyxl </h4>
   
  
   
