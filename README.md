@@ -27,3 +27,8 @@ the students, thus saving a lot of time. </p>
   - Make sure you keep the leaveManagementSystem.py file and the excel sheet in the same folder of the py file.
  
   - Also make sure python is installed, along with visual studio code, and the python extension in it. 
+
+
+<h3> Contributors </h3>
+
+  - Yusuf Mohammed Khan
