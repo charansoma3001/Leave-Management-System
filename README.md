@@ -9,6 +9,8 @@ by us, and maintaining the details and info in a database,
 which will also make it easier for the teachers to manage
 the students, thus saving a lot of time. </p>
 
+<p align = "justify"> The details entered in the application window will be reflected onto the excel file present in the current folder. </p> 
+
 ![Leave Management System Dashboard](https://user-images.githubusercontent.com/55019184/148120300-590dd1bb-db3d-45b8-a73b-7ef9b45591f0.png)
 
 <h3> In command prompt, install these necessary modules - </h3>
