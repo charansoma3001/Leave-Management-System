@@ -4,7 +4,7 @@
 <h4> Pillow </h4>
   - pip install pillow
 
-<h4> Openpyxl </h4>
+<h4> Openpyxl </h4> 
   - pip install openpyxl 
   
  
