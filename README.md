@@ -9,7 +9,7 @@ by us, and maintaining the details and info in a database,
 which will also make it easier for the teachers to manage
 the students, thus saving a lot of time. </p>
 
-<h3> In command prompt, install these necessary modules </h3>
+<h3> In command prompt, install these necessary modules - </h3>
 <h4> Pillow </h4>
 
   - pip install pillow
