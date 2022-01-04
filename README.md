@@ -1,6 +1,6 @@
 # Leave-Management-System
 
-<p align = "center"> A world without trees, without paper, if imagined would
+<p align = "justify"> A world without trees, without paper, if imagined would
 look devastating, especially if there are a lot of people
 writing letters just to take a leave! We bring to you a tool
 that will help curb the wastage of paper by asking students
