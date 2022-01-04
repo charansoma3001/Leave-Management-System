@@ -31,4 +31,4 @@ the students, thus saving a lot of time. </p>
 
 <h3> Contributors </h3>
 
-  - Yusuf Mohammed Khan
+  - <a href= "https://github.com/alphatrion10"> Yusuf Mohammed Khan </a>
