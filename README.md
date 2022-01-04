@@ -1,3 +1,3 @@
 # Leave-Management-System
 
-<h1> In command prompt, install these necessary modules </h1>
+<h5> In command prompt, install these necessary modules </h5>
