@@ -10,4 +10,6 @@
   - pip install openpyxl 
   
  
- <h3> Make sure you keep the leaveManagementSystem.py file and the excel sheet in the same folder of the py file </h3>
+ <h3> Make sure you keep the leaveManagementSystem.py file and the excel sheet in the same folder of the py file </h3> 
+ 
+ <h3> Also make sure python is installed, along with visual studio code, and the python extension in it. </h3>
